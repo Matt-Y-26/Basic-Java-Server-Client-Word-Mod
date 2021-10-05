@@ -1,3 +1,8 @@
+    import java.util.*;
+    import java.net.*;
+    import java.io.*;
+
+
 // This project is divided into two parts, the server which processes the data
 // and the client which connects and sends the paragraph. They both interact with one
 // another doing different operations including : longest word, capitalizing every
